@@ -1,1 +1,0 @@
-document.getElementById('countdown').innerText='Countdown menuju 02 Agustus 2026';
